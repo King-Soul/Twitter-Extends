@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+body
+{
+    background-color:#15202b;
+}
+
+.main-content
+{
+    border:1px solid;
+    border-color:grey;
+}
+
+.imgPerfil
+{
+    min-width: 100%;
+    max-height: 200px;
+    margin:0;
+    padding:0;
+}
+
+.imgAvatar
+{
+    max-width:135px;
+    margin-top:-35%;
+    border:1px solid;
+    border-color:black;
+    box-shadow:  0 0 10px 3px rgba(0, 0, 0, 0.6);
+}
+
+.nomePerfil
+{
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.btnFollow
+{
+    border:2px solid;
+    border-color:white;
+    background-color:transparent;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    border-radius: 15px;
+    padding:5px 10px 5px 10px;
+    margin-left: 8px;
+}
+
+.btnMessage
+{
+    width:40px;
+    height:40px;
+    border:2px solid;
+    border-color:white;
+    background-color:transparent;
+    color:white;
+    font-size:17px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    border-radius: 50%;
+    margin-left: 8px;
+}
+
+.btnDetails
+{
+    width:40px;
+    height:40px;
+    border:2px solid;
+    border-color:white;
+    background-color:transparent;
+    color:white;
+    font-size:17px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    border-radius: 50%;
+}
+
+.arroba
+{
+    font-family: 'Poppins', sans-serif;
+    color:grey;
+    font-size: 12px;
+    font-weight: 300;
+    float:left !important; 
+}
+
+.arrobaFollow
+{
+    font-family: 'Poppins', sans-serif;
+    color:grey;
+    font-size: 12px;
+    font-weight: 300;
+    float:left !important; 
+}
+
+.profileDetails
+{
+    margin-top:-2%;
+}
